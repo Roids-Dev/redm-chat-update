@@ -8,7 +8,7 @@ window.CONFIG = {
     'defaultAlt': '{0}',
     'example:important': '<h1>^2{0}</h1>'
   },
-  fadeTimeout: 2000,
+  fadeTimeout: 1000,
   suggestionLimit: 5,
   style: {
     background: 'rgba(0, 0, 0, 0.4)',
